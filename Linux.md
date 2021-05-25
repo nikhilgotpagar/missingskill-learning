@@ -1,32 +1,30 @@
 
-#<span style="color:">missingskill-learning
+# <span style="color:">missingskill-learning
 ![Image](https://github.com/nikhilgotpagar/METRepository/blob/main/a2ea924c-aeb5-45d2-9d87-3d192c50b515.jpg?raw=true)
-##Linux
+## Linux
 
 
 
 
 #
 #
-**Socials**
-
-[Twitter]() [Instagram]() [E-mail]() [Telegram]() [YouTube]() 
+**Created By : Nikhil Gotpagar**
 #
 #
 #
 #
 ---
-#Content
-###<span style="color:Gray">History of Linux
+# Content
+### <span style="color:Gray">History of Linux
 1. How it all started...
 2. Linux Operating System.
 3. Different distributions of Linux.
 
-###<span style="color:Gray">Linux Commands
+### <span style="color:Gray">Linux Commands
 1. Basic Commands.
 
 
-###<span style="color:Gray">Linux file system & Directory Structure
+### <span style="color:Gray">Linux file system & Directory Structure
 1. Shell
 2. Directories
 
@@ -34,8 +32,8 @@
 
 ---
 
-###<span style="color:Gray">History of Linux
-####<span style="color:silver">1.How it all Started...
+### <span style="color:Gray">History of Linux
+#### <span style="color:silver">1.How it all Started...
 
 Backthen computer was only used in NASA/DARPA(Military Agency of US). Bell lab spent 1 year creating a operating system called **UNIX**. It normally used to cost around 2800-4000 dollars for one unix system. Berkley University started unix system for their research but they had to pay a loy of money for licensing . They made new os using unix code base and they called it as BSD (Berkely Software Distribution).
 Around 1980, A guy from MIT  Richard Stalmen created his free os  beacuse of licensing University wasnt able to pay for his research. So he decided to build his free os. In 1985 he created his own OS **GNU**. it had a krenel called HURD. In finnland there was a guy called Linux he created his own  kernel.. In 1991 Richard Stalmen & Linux came together  and form  OS called **GNU Linux**. Beacuse of them now anyone can get their own os 
@@ -48,7 +46,7 @@ Around 1980, A guy from MIT  Richard Stalmen created his free os  beacuse of lic
 #
 ---
 
-####<span style="color:silver">2. Linux Operating system.
+#### <span style="color:silver">2. Linux Operating system.
 >An operating system is a software that enables the communication between computer hardware and software Linux is not actually a operating system it is a kernel.Linux kernel and GNU utilities together forms a linux Oerating system.
 
 ![Image](https://raw.githubusercontent.com/nikhilgotpagar/METRepository/main/linux%20arch.jpeg)
@@ -67,7 +65,7 @@ Around 1980, A guy from MIT  Richard Stalmen created his free os  beacuse of lic
 #
 #
 ---
-####<span style="color:silver">2. Different distributions of Linux.
+#### <span style="color:silver">2. Different distributions of Linux.
 
 1. UBuntu :	It works like Mac OS and easy to use.
 2. Linux mint : It works like windows and should be use by new comers.
@@ -84,8 +82,8 @@ Around 1980, A guy from MIT  Richard Stalmen created his free os  beacuse of lic
 #
 ---
 
-###<span style="color:Gray">Linux Commands
-####<span style="color:silver">1. Basic Commands.
+### <span style="color:Gray">Linux Commands
+#### <span style="color:silver">1. Basic Commands.
 | commands | flags | use |
 | --- | --- | --- |
 | ls |  | Use to list files and folders in directories |
@@ -122,8 +120,8 @@ Around 1980, A guy from MIT  Richard Stalmen created his free os  beacuse of lic
 
 ---
 
-###<span style="color:Gray">Linux file system & Directory Structure
-####<span style="color:silver">File System :
+### <span style="color:Gray">Linux file system & Directory Structure
+#### <span style="color:silver">File System :
 >A Linux file system is a structured collection of files on a disk drive or a partition.
 Basic Directories in system.
 
@@ -143,13 +141,13 @@ Basic Directories in system.
 
 #
 #
-####<span style="color:silver">Shell :
+#### <span style="color:silver">Shell :
 >The shell is an interactive interface that allows users to execute other commands and utilities in Linux.Initially shell was the only way mode for communicating with kernel via CLI.
 #
-####<span style="color:silver">Bash Shell :
+#### <span style="color:silver">Bash Shell :
 >Bourne again shell Its a replacement for original shell.
 Original shell + Additional functionality 
-#####<span style="color:silver">Daemon :
+##### <span style="color:silver">Daemon :
 >Its a type of program that runs in the background and can be activated by occurence of specific event condition. After servicing request Daemon disconnects and wait for further request.
 #
 #
