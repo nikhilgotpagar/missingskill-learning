@@ -1,7 +1,7 @@
 
-#<span style="color:">missingskill-learning
+# <span style="color:">missingskill-learning
 ![Image](https://github.com/nikhilgotpagar/METRepository/blob/main/a2ea924c-aeb5-45d2-9d87-3d192c50b515.jpg?raw=true)
-##Git
+## Git
 
 
 
@@ -16,10 +16,10 @@
 #
 #
 ---
-#Content
-###<span style="color:Gray"> 1.Intoduction to Linux
+# Content
+### <span style="color:Gray"> 1.Intoduction to Linux
 
-###<span style="color:Gray"> 2.Git Commands
+### <span style="color:Gray"> 2.Git Commands
 #
 #
 #
@@ -32,7 +32,7 @@
 #
 
 ---
-###<span style="color:Gray"> 1.Intoduction to Linux
+### <span style="color:Gray"> 1.Intoduction to Linux
 Git is a widely used distributed version control system. It allows to monitor and work together in a single workspace. It provides various services like **GitHub** & **GitLab**. It can be used publicly & privately.
 
 **Benefits of Git :**
@@ -52,7 +52,7 @@ Git is a widely used distributed version control system. It allows to monitor an
 #
 ---
 
-###<span style="color:Gray"> 2.Git Commands
+### <span style="color:Gray"> 2.Git Commands
 #
 
 | Commands | Uses | 
