@@ -8,9 +8,7 @@
 
 #
 #
-**Socials**
-
-[Twitter]() [Instagram]() [E-mail]() [Telegram]() [YouTube]() 
+**Created By : Nikhil Gotpagar**
 #
 #
 #
