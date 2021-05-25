@@ -1,31 +1,29 @@
 
-#<span style="color:">missingskill-learning
+# <span style="color:">missingskill-learning
 ![Image](https://github.com/nikhilgotpagar/METRepository/blob/main/a2ea924c-aeb5-45d2-9d87-3d192c50b515.jpg?raw=true)
-##Web Development
+## Web Development
 
 
 
 
 #
 #
-**Socials**
-
-[Twitter]() [Instagram]() [E-mail]() [Telegram]() [YouTube]() 
+**Created By : Nikhil Gotpagar**
 #
 #
 #
 ---
-#Content
-####<span style="color:Gray"> 1. Programming Language
-####<span style="color:Gray"> 2. IP Address
-####<span style="color:Gray"> 3. Port
-####<span style="color:Gray"> 4. Browser
-####<span style="color:Gray"> 5. Server
-####<span style="color:Gray"> 6. Software License
-####<span style="color:Gray"> 7. Database
-####<span style="color:Gray"> 8. Cloud Providers
-####<span style="color:Gray"> 9. Code Repositories
-####<span style="color:Gray"> 10. Dev Workflow & Infrastructure
+# Content
+#### <span style="color:Gray"> 1. Programming Language
+#### <span style="color:Gray"> 2. IP Address
+#### <span style="color:Gray"> 3. Port
+#### <span style="color:Gray"> 4. Browser
+#### <span style="color:Gray"> 5. Server
+#### <span style="color:Gray"> 6. Software License
+#### <span style="color:Gray"> 7. Database
+#### <span style="color:Gray"> 8. Cloud Providers
+#### <span style="color:Gray"> 9. Code Repositories
+#### <span style="color:Gray"> 10. Dev Workflow & Infrastructure
 #
 #
 #
@@ -33,7 +31,7 @@
 #
 #
 ---
-####<span style="color:Gray"> **1. Programming Language**
+#### <span style="color:Gray"> **1. Programming Language**
 >It is a set of instruction to written in a specific manner to communicate with computer.
 
 Most popular programming language used by developers are :
@@ -45,7 +43,7 @@ Most popular programming language used by developers are :
 6. PHP
 7. TypeScript
 
-####<span style="color:Gray"> **2. IP Address**
+#### <span style="color:Gray"> **2. IP Address**
 > Its a unique address that identifies a device on the inetrnet or local network
 
 **Types Of IP Address :**
@@ -67,7 +65,7 @@ class E
 
 ---
 
-####<span style="color:Gray"> 3. Port
+#### <span style="color:Gray"> 3. Port
 > Its a communication Endpoint.
 
 - 0 - 1023 (reserved port/port used by system)
@@ -77,7 +75,7 @@ class E
 #
 #
 
-####<span style="color:Gray"> 4. Browser
+#### <span style="color:Gray"> 4. Browser
 
 >Its an application software to access the Internet/World Wide Web.
 
@@ -91,7 +89,7 @@ class E
 
 ---
 
-####<span style="color:Gray"> 5. Server
+#### <span style="color:Gray"> 5. Server
 
 >Web servers are the computer which basically host/runs the websites.
 
@@ -110,7 +108,7 @@ class E
 - OPTION 
 - HEAD
 
-####<span style="color:Gray"> 6. Software License
+#### <span style="color:Gray"> 6. Software License
 
 >A license is an agreement between a developer and user on how a software product can be used. 
 
@@ -123,14 +121,14 @@ class E
 
 ---
 
-####<span style="color:Gray"> 7. Database
+#### <span style="color:Gray"> 7. Database
 >A database is a data structure that stores organized information
 
 **Types :**
 1. Relational Database  : MySQL,Prosgrace SQL,MariaDB.
 2. Non-Relational Databse :  MongoDB, Redis, Casandra, NeoJS.
 
-####<span style="color:Gray"> 8. Cloud Providers
+#### <span style="color:Gray"> 8. Cloud Providers
 
 >It defined as " PAY AS YOU GO".
 
@@ -144,7 +142,7 @@ class E
 
 ---
 
-####<span style="color:Gray"> 9. Code Repositories
+#### <span style="color:Gray"> 9. Code Repositories
 
 >A source code repository and hosting facility to share and store the code publicly or privately.
 
@@ -156,7 +154,7 @@ class E
 4. JIRA
 
 
-####<span style="color:Gray"> 10. Dev Workflow & Infrastructure
+#### <span style="color:Gray"> 10. Dev Workflow & Infrastructure
 
 **Dev Workflow**
 - Feature branch
