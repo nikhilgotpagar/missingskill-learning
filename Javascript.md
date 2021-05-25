@@ -1,7 +1,7 @@
 
-#<span style="color:">missingskill-learning
+# <span style="color:">missingskill-learning
 ![Image](https://github.com/nikhilgotpagar/METRepository/blob/main/a2ea924c-aeb5-45d2-9d87-3d192c50b515.jpg?raw=true)
-#JavaScript
+# JavaScript
 
 
 
@@ -15,21 +15,21 @@
 
 ---
 
-###<span style="color:Gray"> 1. History Of  JavaScript
-###<span style="color:Gray"> 2. JavaScript Framework
-###<span style="color:Gray"> 3. Control Structures
-###<span style="color:Gray"> 4. Tech Debt
-###<span style="color:Gray"> 5. DataTypes
-###<span style="color:Gray"> 6. Copy By value & Copy By reference
-###<span style="color:Gray"> 7. JavaScript functions.
-###<span style="color:Gray"> 8. IIFE, Inline functions.
-###<span style="color:Gray"> 9. Constructors & Prototypes.
-###<span style="color:Gray"> 10. Array, Objects & String prototype methods.
-###<span style="color:Gray"> 11. Built in functions & ES6.
+### <span style="color:Gray"> 1. History Of  JavaScript
+### <span style="color:Gray"> 2. JavaScript Framework
+### <span style="color:Gray"> 3. Control Structures
+### <span style="color:Gray"> 4. Tech Debt
+### <span style="color:Gray"> 5. DataTypes
+### <span style="color:Gray"> 6. Copy By value & Copy By reference
+### <span style="color:Gray"> 7. JavaScript functions.
+### <span style="color:Gray"> 8. IIFE, Inline functions.
+### <span style="color:Gray"> 9. Constructors & Prototypes.
+### <span style="color:Gray"> 10. Array, Objects & String prototype methods.
+### <span style="color:Gray"> 11. Built in functions & ES6.
 
 ---
 
-####<span style="color:Gray"> 1. History Of  JavaScript
+#### <span style="color:Gray"> 1. History Of  JavaScript
 
 In 1991 **linux** was launched and tech revolution started. Microsoft and Apple were big players of market. Netscape browser was the only way to use internet, Microsoft build Internet Explorer and provided it for free for users. Java was very stromng backend language but it was missing frontend part. To complete that void Netscape programmer named **Brandan Eich developed a new programming language in just 3 weeks**.It was originally named Mocha.Later, the marketing team replaced the name with 'LiveScript'. Later due to licensing issue JavaScript name came into existence. Around 95 % websites were created using Javascript. JavaScript has no connectivity with Java programming language.
 
@@ -44,7 +44,7 @@ Neither distributor nor the devloper is responsible for the damaged done by code
 #
 
 ---
-###<span style="color:Gray"> 2. JavaScript Framework
+### <span style="color:Gray"> 2. JavaScript Framework
 >JS frameworks are collections of JavaScript code libraries that provide developers with pre-written JS code.
 
 **Some of the popular framework of JavaScript are :**
@@ -63,7 +63,7 @@ Neither distributor nor the devloper is responsible for the damaged done by code
 #
 #
 ---
-###<span style="color:Gray"> 3. Control Structures & Operators
+### <span style="color:Gray"> 3. Control Structures & Operators
 **Control Structure:**
 - If else : Often used
 - for : abstrcations
@@ -126,7 +126,7 @@ Neither distributor nor the devloper is responsible for the damaged done by code
 #
 #
 ---
-###<span style="color:Gray"> 4. Tech Debt
+### <span style="color:Gray"> 4. Tech Debt
 
 + ( cocat & addition ) : a + a = aa
 - === : Equality check
@@ -138,7 +138,7 @@ Neither distributor nor the devloper is responsible for the damaged done by code
 #
 
 ---
-###<span style="color:Gray"> 5. DataTypes
+### <span style="color:Gray"> 5. DataTypes
 > Javascript is a dynamic type language 
 
 Types :
@@ -293,7 +293,7 @@ if variable is ES6 iwt will check in lexical scope first, then parent lexical sc
 #
 ---
 
-###<span style="color:Gray"> 6. Copy By value & Copy By reference
+### <span style="color:Gray"> 6. Copy By value & Copy By reference
 
 - Copy by value : Xerox (if someone makes update then its updted the copy not the orginal assignment )
 - Copy by reference : Google Docs. (passing reference to the other person. It doesnt matter how many reference you give your updating the same docs)
@@ -353,7 +353,7 @@ Debugger attached.
 ```
 ---
 #
-###<span style="color:Gray"> 7. JavaScript Functions.
+### <span style="color:Gray"> 7. JavaScript Functions.
 
 > JavaScript function is a block of code designed to perform a particular task.
 It is executed when you invoked it.
@@ -514,7 +514,7 @@ delhi
 
 ---
 
-###<span style="color:Gray"> 8. IIFE, Inline Functions.
+### <span style="color:Gray"> 8. IIFE, Inline Functions.
 **IIFE :** Immediately invoked function expression.(self executing function expression).
 Can only run once.
 >Private method implementation (Like private methods in Java)
@@ -566,7 +566,7 @@ printing hello 40 200
 ```
 
 ---
-###<span style="color:Gray"> 9. Constructors & Prototypes.
+### <span style="color:Gray"> 9. Constructors & Prototypes.
 In JavaScript, whenever a function is created the prototype property is added to that function automatically. It mimics the Object oriented concept in java.
 By using prototype property we can attach a method to any object/function constructor. 
 Methods are the part of a class. functions are Independent.
@@ -591,7 +591,7 @@ person {name: 'nikhil', exp: 15}
 
 ```
 ---
-###<span style="color:Gray"> 10. Array, Objects & String prototype methods.
+### <span style="color:Gray"> 10. Array, Objects & String prototype methods.
 
 In javaScript array is nothing but Indexed based object.
 
@@ -714,7 +714,7 @@ nikhilgotpagar1997@gmail.com
 ```
 
 ---
-###<span style="color:Gray"> 11. Built in functions & ES6.
+### <span style="color:Gray"> 11. Built in functions & ES6.
 
 **Functions :** 
 1. setTimeout(): It delays the execution.
