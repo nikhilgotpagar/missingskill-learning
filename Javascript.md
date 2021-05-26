@@ -48,7 +48,7 @@ Neither distributor nor the devloper is responsible for the damaged done by code
 >JS frameworks are collections of JavaScript code libraries that provide developers with pre-written JS code.
 
 **Some of the popular framework of JavaScript are :**
-1. <span style="color:Red">Angular JS
+1. <span style="color:Red"> Angular JS
 2. <span style="color:blue">React JS
 3. <span style="color:aqua"> Vue JS
 4. <span style="color:Green">Node JS
