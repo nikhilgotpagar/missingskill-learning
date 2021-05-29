@@ -596,10 +596,10 @@ person {name: 'nikhil', exp: 15}
 In javaScript array is nothing but Indexed based object.
 
 **Push & Pop :**
-Push : used to add element into array.
-Pop : used to remove element from array.
-Unshift : It add elements at the beginning of the array. //rarely used
-Shift : shift removes value from the beginning of the array. //rarely used 
+1. Push : used to add element into array.
+2. Pop : used to remove element from array.
+3. Unshift : It add elements at the beginning of the array. //rarely used
+4. Shift : shift removes value from the beginning of the array. //rarely used 
 Array push and pop operates at the end of the array. 
 
 Example :
