@@ -125,7 +125,7 @@ class E
 >A database is a data structure that stores organized information
 
 **Types :**
-1. Relational Database  : MySQL,Prosgrace SQL,MariaDB.
+1. Relational Database  : MySQL,Postgrace SQL,MariaDB.
 2. Non-Relational Databse :  MongoDB, Redis, Casandra, NeoJS.
 
 #### <span style="color:Gray"> 8. Cloud Providers
