@@ -15,7 +15,7 @@
 #
 ---
 # Content
-### <span style="color:Gray"> 1.Intoduction to Linux
+### <span style="color:Gray"> 1.Intoduction to Git
 
 ### <span style="color:Gray"> 2.Git Commands
 #
@@ -30,7 +30,7 @@
 #
 
 ---
-### <span style="color:Gray"> 1.Intoduction to Linux
+### <span style="color:Gray"> 1.Intoduction to Git
 Git is a widely used distributed version control system. It allows to monitor and work together in a single workspace. It provides various services like **GitHub** & **GitLab**. It can be used publicly & privately.
 
 **Benefits of Git :**
