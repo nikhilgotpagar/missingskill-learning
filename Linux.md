@@ -36,7 +36,7 @@
 #### <span style="color:silver">1.How it all Started...
 
 Backthen computer was only used in NASA/DARPA(Military Agency of US). Bell lab spent 1 year creating a operating system called **UNIX**. It normally used to cost around 2800-4000 dollars for one unix system. Berkley University started unix system for their research but they had to pay a loy of money for licensing . They made new os using unix code base and they called it as BSD (Berkely Software Distribution).
-Around 1980, A guy from MIT  Richard Stalmen created his free os  beacuse of licensing University wasnt able to pay for his research. So he decided to build his free os. In 1985 he created his own OS **GNU**. it had a krenel called HURD. In finnland there was a guy called Linux he created his own  kernel.. In 1991 Richard Stalmen & Linux came together  and form  OS called **GNU Linux**. Beacuse of them now anyone can get their own os 
+Around 1980, A guy from MIT  Richard Stalmen created his free os  beacuse of licensing University wasnt able to pay for his research. So he decided to build his free os. In 1985 he created his own OS **GNU**. it had a krenel called HURD. In finnland there was a guy called Linus he created his own  kernel.. In 1991 Richard Stalmen & Linus came together  and form  OS called **GNU Linux**. Beacuse of them now anyone can get their own os 
 #
 #
 #
