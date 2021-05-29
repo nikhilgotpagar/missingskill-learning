@@ -31,7 +31,7 @@
 
 #### <span style="color:Gray"> 1. History Of  JavaScript
 
-In 1991 **linux** was launched and tech revolution started. Microsoft and Apple were big players of market. Netscape browser was the only way to use internet, Microsoft build Internet Explorer and provided it for free for users. Java was very strong backend language but it was missing frontend part. To complete that void Netscape programmer named **Brandan Eich developed a new programming language in just 3 weeks**.It was originally named Mocha.Later, the marketing team replaced the name with 'LiveScript'. Later due to licensing issue JavaScript name came into existence. Around 95 % websites were created using Javascript. JavaScript has no connectivity with Java programming language.
+In 1991 **linux** was launched and tech revolution started. Microsoft and Apple were big players of market. Netscape browser was the only way to use internet, Microsoft build Internet Explorer and provided it for free for users. Java was very strong backend language but it was missing frontend part. To complete that void Netscape programmer named **Brandan Eich developed a new programming language in just 10 days**.It was originally named Mocha.Later, the marketing team replaced the name with 'LiveScript'. Later due to licensing issue JavaScript name came into existence. Around 95 % websites were created using Javascript. JavaScript has no connectivity with Java programming language.
 
 **MIT License :**
 The MIT license gives users  permission to reuse code for any purpose, sometimes even if code is part of proprietary software. As long as users include the original copy of the MIT license in their distribution, they can make any changes or modifications to the code to suit their own needs.
